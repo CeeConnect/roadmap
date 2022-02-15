@@ -49,6 +49,13 @@
 
 ### Attestations sur l'honneur
 
+- Fiches AGRI ⏳
+- Fiches BAR ⏳
+- Fiches BAT ⏳
+- Fiches IND ⏳
+- Fiches RES ⏳
+- Fiches TRA ⏳
+
 ### Pièces justificatives
 
 - Devis ⏳ 🔍
